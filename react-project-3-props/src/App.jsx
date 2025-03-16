@@ -15,7 +15,6 @@ function App() {
       <BTN handleClick= {handleClick}
         text="Click me">
           <h1>{count}</h1>
-
       </BTN>
 
 
